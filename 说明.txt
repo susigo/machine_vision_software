@@ -1,0 +1,13 @@
+B0_Canny
+B1_Sobel
+B2_Kirsch
+B3_Laplacian
+B4_SUSAN
+B5_Harris
+B6_resset
+B7_save
+
+S1_brigthness
+S2_contrace
+
+请将imgs文件夹放入编译好的文件夹中
