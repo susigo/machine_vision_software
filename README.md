@@ -14,3 +14,18 @@
 	1、亮度调整、对比度调整、以及部分算子功能未加入；
 	2、底部阈值上下限未暂时无用；
 	3、还原、保存功能暂未加入；
+this qt software is a simple precentacion in my computer vision class,it runs specificly in ubuntu2019 using qt5.13-c++ and opencv-3.4.7 .it has no any copyright claim, fell free to use it any way you want! but please do pay atention to qt and opencv liscient.
+
+it has three simple functions.
+1:press SELECT button to select image in ./img folder.
+2:press button bellow to choose the image process method and it will show the result image in a new window.
+3:print debug imformations in debug widget
+due to lack of time, i only manage to applay four method whitch is：Canny Sobel Laplacian and Susan, if i have time i will complite it with a new update.
+
+use guid:
+    open qtcreator in terminal with comand line :qtcreator    
+    open project name MV_1_2 
+    comple it the move unzip imgs.zip folder to comple floder(where main.o located)
+    press run button 
+    now if the main window comes out it means it works
+    
